@@ -1,4 +1,3 @@
-/*
 //alert("Olá Mundo!")
 
 console.log("Olá Mundo!");
@@ -32,7 +31,6 @@ console.log(5 === "5"); //extritamente igual
 
 console.log(5 != "5"); //desigualdade
 console.log(5 !== "5"); //extritamente desigual
-*/
 
 //dados de entrada(input)
 var nomeCompleto = window.prompt("Digite o nome:");
